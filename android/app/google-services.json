@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "594218019146",
+    "project_id": "new-push-notification-te-c8026",
+    "storage_bucket": "new-push-notification-te-c8026.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594218019146:android:c218d03ad3f2847012b9b3",
+        "android_client_info": {
+          "package_name": "com.example.new_push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594218019146-39mc4iar1jedvamj4k3ja42o1l5qts64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ8Nd-fIb6kwB0PMrgfbzApz7aftsgvcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594218019146-39mc4iar1jedvamj4k3ja42o1l5qts64.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "594218019146-8ghmoa1lavdk8d7i9mm17kb4jnko0p12.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.newPushNotification.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
